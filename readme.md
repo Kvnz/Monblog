@@ -4,5 +4,12 @@
 
 	1. Faire un site de merde
 	2. En faire le moins possible
+	3. Relou git hub
 
-grgnronro
+## arborescence
+	
+	Accueil
+	Contact
+	Blog
+	Portefolio
+	CV
