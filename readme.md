@@ -13,3 +13,8 @@
 	Blog
 	Portefolio
 	CV
+
+## Les blocs - zones
+
+## Sites modèles
+	google -> recherche de thème
